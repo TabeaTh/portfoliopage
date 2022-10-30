@@ -55,3 +55,10 @@
   border-radius: 50%;
 }
 
+.beruf {
+  padding: .1em.4em;
+  background: var(--bs-black);
+  border-color: #0d6efd;
+  color: #0d6efd;
+}
+
